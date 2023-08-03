@@ -44,3 +44,12 @@ let q=5;
 console.log(q);
 q+=p;
 console.log(q);
+
+
+//IMplicit Coercion
+let str= "42" + 32;
+console.log(str);
+
+//Explicit Coercion
+let strNumber = Number(str);
+console.log(strNumber);
