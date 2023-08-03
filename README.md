@@ -1,22 +1,22 @@
 ~~Hello, World Exam~~
 
-use strict
+~~use strict~~
 
-Variables
+~~Variables~~
 
-Datatypes
+~~Datatypes~~
 
-Methods of primitives
+~~Methods of primitives~~
 
-Numbers
+~~Numbers~~
 
-Strings
+~~Strings~~
 
-Arrays
+~~Arrays~~
 
-Array Methods
+~~Array Methods~~
 
-Iterables
+~~Iterables~~
 
 Map and Set
 
