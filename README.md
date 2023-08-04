@@ -1,91 +1,84 @@
-~~Hello, World Exam~~
+# Topics for JS
 
-~~use strict~~
+---
 
-~~Variables~~
+### DAY 1
 
-~~Datatypes~~
+---
 
-~~Methods of primitives~~
+- ~~JavaScript: **Hello, World Example**~~ &check;
+- ~~JavaScript: **"use strict"**~~ &check;
+- ~~JavaScript: **Variables**~~ &check;
+- ~~JavaScript: **Datatypes**~~ &check;
+- ~~JavaScript: **Methods of primitives**~~ &check;
+- ~~JavaScript: **Numbers**~~ &check;
+- ~~JavaScript: **Strings**~~ &check;
+- ~~JavaScript: **Arrays**~~ &check;
+- ~~JavaScript: **Array Methods**~~ &check;
+- ~~JavaScript: **Iterables**~~ &check;
 
-~~Numbers~~
+---
 
-~~Strings~~
+### DAY 2
 
-~~Arrays~~
+---
 
-~~Array Methods~~
+- ~~JavaScript: **Map and Set**~~ &check;
+- ~~JavaScript: **alert, prompt, confirm**~~ &check;
+- ~~JavaScript: **Type Conversions** ~~ &check;
+- ~~JavaScript: **Basic Operators, maths** ~~ &check;
+- ~~JavaScript: **Comparisions** ~~ &check;
+- ~~JavaScript: **Conditional branching: if, ?** ~~&check;
+- JavaScript: **Logical Operators**
+- JavaScript: **Nullish coalescing Operator**
+- JavaScript: **Loops: while and for**
+- JavaScript: **switch statement**
 
-~~Iterables~~
+---
 
-Map and Set
+### DAY 3
 
-alert, prompt, confirm
+---
 
-Type Conversions
+- JavaScript: **Functions**
+- JavaScript: **Function Expressions**
+- JavaScript: **Arrow Functions, the basics**
+- JavaScript: **Debugging in chrome or firebox**
+- JavaScript: **Comments**
+- JavaScript: **Polyfills and transpillers**
+- JavaScript: **Objects**
+- JavaScript: **Objects methods, "this"**
+- JavaScript: **Object references and copying**
+- JavaScript: **Optional Chaining**
+- JavaScript: **Object.keys**
 
-Basic Operators, maths
+---
 
-Comparisions
+### DAY 4
 
-Conditional branching: if, ?
+---
 
-Logical Operators
+- JavaScript: **Destructring assignment**
+- JavaScript: **Destructring assignment**
+- JavaScript: **Date and Time**
+- JavaScript: **JSON methods, toJSON**
+- JavaScript: **setInterval, setTimeout**
+- JavaScript: **VAR vs LET vs CONST**
+- JavaScript: **Spread operator**
+- JavaScript: **Error handling, try catch**
+- JavaScript: **Custom errors**
 
-Nullish coalescing Operator
+---
 
-Loops: while and for
+### DAY 5
 
-switch statement
+---
 
-Functions
-
-Function Expressions
-
-Arrow Functions, the basics
-
-Debugging in chrome or firebox
-
-Comments
-
-Polyfills and transpillers
-
-Objects
-
-Objects methods, "this"
-
-Object references and copying
-
-Optional Chaining
-
-Object.keys
-
-Destructring assignment
-
-Date and Time
-
-JSON methods, toJSON
-
-setInterval, setTimeout
-
-VAR vs LET vs CONST
-
-Spread operator
-
-Error handling, try catch
-
-Custom errors
-
-Promises
-
-Promises Chaining
-
-Error Handling with promises
-
-Async Await
-
-Modules
-
-Export and import
-
-Extra : Object Constructor and Prototype
+- JavaScript: **Callbacks**
+- JavaScript: **Promises**
+- JavaScript: **Promises Chaining**
+- JavaScript: **Error Handling with promises**
+- JavaScript: **Async Await**
+- JavaScript: **Modules**
+- JavaScript: **Export and import**
+- **Extra : Object Constructor and Prototype**
