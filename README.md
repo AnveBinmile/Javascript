@@ -29,10 +29,10 @@
 - ~~JavaScript: **Basic Operators, maths** ~~ &check;
 - ~~JavaScript: **Comparisions** ~~ &check;
 - ~~JavaScript: **Conditional branching: if, ?** ~~&check;
-- JavaScript: **Logical Operators**
-- JavaScript: **Nullish coalescing Operator**
-- JavaScript: **Loops: while and for**
-- JavaScript: **switch statement**
+- ~~JavaScript: **Logical Operators**~~ &check;
+- ~~JavaScript: **Nullish coalescing Operator**~~&check;
+- ~~JavaScript: **Loops: while and for**~~&check;
+- ~~JavaScript: **switch statement**~~&check;
 
 ---
 
@@ -40,17 +40,17 @@
 
 ---
 
-- JavaScript: **Functions**
-- JavaScript: **Function Expressions**
-- JavaScript: **Arrow Functions, the basics**
-- JavaScript: **Debugging in chrome or firebox**
-- JavaScript: **Comments**
-- JavaScript: **Polyfills and transpillers**
-- JavaScript: **Objects**
-- JavaScript: **Objects methods, "this"**
-- JavaScript: **Object references and copying**
-- JavaScript: **Optional Chaining**
-- JavaScript: **Object.keys**
+- ~~JavaScript: **Functions** ~~ &check;
+- ~~JavaScript: **Function Expressions** ~~&check;
+- JavaScript: **Arrow Functions, the basics**                       ~~
+- JavaScript: **Debugging in chrome or firebox**;
+- ~~JavaScript: **Comments**~~&check;
+- ~~JavaScript: **Polyfills and transpillers**;
+- ~~JavaScript: **Objects**~~
+- ~~JavaScript: **Objects methods, "this"**~~
+- ~~JavaScript: **Object references and copying**~~
+- ~~JavaScript: **Optional Chaining**~~
+- ~~JavaScript: **Object.keys**~~
 
 ---
 
