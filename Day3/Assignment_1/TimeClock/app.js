@@ -2,7 +2,12 @@ const start = document.getElementById("start");
 const stop = document.getElementById("stop");
 const pause = document.getElementById("pause");
 
-let time = 0;
+const time = document.getElementById('time');
+const value = document.getElementById('value')
+
+
+
+let currtime = 0;
 let h = 0,
   m = 0,
   s = 0;
@@ -39,10 +44,14 @@ start.addEventListener("click", () => {
     clearInterval(on);
   }
   on = setInterval(incValue, 1000);
+  time.style.border="10px solid salmon";
+  time.style.backgroundColor = "#f5f5dc"
+  value.style.color='#ffc0cb'
 });
 
 pause.addEventListener("click", () => {
   clearInterval(on);
+  value.style.color='#c9c92c'
 });
 
 stop.addEventListener("click", () => {
@@ -53,6 +62,9 @@ stop.addEventListener("click", () => {
   hr.innerText = h;
   mn.innerText = m;
   sec.innerText = s;
+  time.style.border="none";
+  time.style.backgroundColor = "#ffc0cb"
+  value.style.color='#e25a5a'
 });
 
 // pause.addEventListener('click',())
