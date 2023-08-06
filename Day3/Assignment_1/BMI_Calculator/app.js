@@ -3,12 +3,6 @@ const weight = document.getElementById("weight");
 const submit = document.getElementById('submit');
 const output = document.getElementById('output')
 
-// const bmi = weight / (height * height);
-
-console.log(height);
-console.log(weight);
-console.log(output);
-
 
 
 const findBMI = (weight,height)=>{

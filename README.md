@@ -44,13 +44,13 @@
 - ~~JavaScript: **Function Expressions** ~~&check;
 - JavaScript: **Arrow Functions, the basics**                       ~~
 - JavaScript: **Debugging in chrome or firebox**;
-- ~~JavaScript: **Comments**~~&check;
-- ~~JavaScript: **Polyfills and transpillers**;
-- ~~JavaScript: **Objects**~~
-- ~~JavaScript: **Objects methods, "this"**~~
-- ~~JavaScript: **Object references and copying**~~
-- ~~JavaScript: **Optional Chaining**~~
-- ~~JavaScript: **Object.keys**~~
+- JavaScript: **Comments**~~&check;
+- JavaScript: **Polyfills and transpillers**;
+- JavaScript: **Objects**
+- JavaScript: **Objects methods, "this"**
+- JavaScript: **Object references and copying**
+- JavaScript: **Optional Chaining**s
+- JavaScript: **Object.keys**
 
 ---
 
