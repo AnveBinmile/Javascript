@@ -42,10 +42,10 @@
 
 - ~~JavaScript: **Functions** ~~ &check;
 - ~~JavaScript: **Function Expressions** ~~&check;
-- JavaScript: **Arrow Functions, the basics**                       ~~
-- JavaScript: **Debugging in chrome or firebox**;
-- JavaScript: **Comments**~~&check;
-- JavaScript: **Polyfills and transpillers**;
+- ~~JavaScript: **Arrow Functions, the basics**~~&check;                       ~~
+- ~~JavaScript: **Debugging in chrome or firebox**~~&check;
+- ~~JavaScript: **Comments**~~&check;
+- ~~JavaScript: **Polyfills and transpillers**~~&check;
 - JavaScript: **Objects**
 - JavaScript: **Objects methods, "this"**
 - JavaScript: **Object references and copying**
