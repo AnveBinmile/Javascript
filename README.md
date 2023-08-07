@@ -40,8 +40,8 @@
 
 ---
 
-- ~~JavaScript: **Functions** ~~ &check;
-- ~~JavaScript: **Function Expressions** ~~&check;
+- ~~JavaScript: **Functions**~~ &check;
+- ~~JavaScript: **Function Expressions**~~&check;
 - ~~JavaScript: **Arrow Functions, the basics**~~&check;                       ~~
 - ~~JavaScript: **Debugging in chrome or firebox**~~&check;
 - ~~JavaScript: **Comments**~~&check;
