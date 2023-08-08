@@ -46,11 +46,11 @@
 - ~~JavaScript: **Debugging in chrome or firebox**~~&check;
 - ~~JavaScript: **Comments**~~&check;
 - ~~JavaScript: **Polyfills and transpillers**~~&check;
-- JavaScript: **Objects**
-- JavaScript: **Objects methods, "this"**
-- JavaScript: **Object references and copying**
-- JavaScript: **Optional Chaining**s
-- JavaScript: **Object.keys**
+- ~~JavaScript: **Objects**~~&check;
+- ~~JavaScript: **Objects methods, "this"**~~&check;
+- ~~JavaScript: **Object references and copying**~~&check;
+- ~~JavaScript: **Optional Chaining**~~&check;
+- ~~JavaScript: **Object.keys**~~&check;
 
 ---
 
@@ -58,15 +58,14 @@
 
 ---
 
-- JavaScript: **Destructring assignment**
-- JavaScript: **Destructring assignment**
-- JavaScript: **Date and Time**
-- JavaScript: **JSON methods, toJSON**
+- ~~JavaScript: **Destructring assignment**~~&check;
+- ~~JavaScript: **Date and Time**~~&check;
+- JavaScript: **JSON methods, toJSON**;
 - JavaScript: **setInterval, setTimeout**
-- JavaScript: **VAR vs LET vs CONST**
-- JavaScript: **Spread operator**
-- JavaScript: **Error handling, try catch**
-- JavaScript: **Custom errors**
+- ~~JavaScript: **VAR vs LET vs CONST**~~&check;
+- ~~JavaScript: **Spread operator**~~&check;
+- ~~JavaScript: **Error handling, try catch**~~&check;
+- ~~JavaScript: **Custom errors**~~&check;
 
 ---
 
@@ -74,7 +73,7 @@
 
 ---
 
-- JavaScript: **Callbacks**
+- ~~JavaScript: **Callbacks**~~&check;
 - JavaScript: **Promises**
 - JavaScript: **Promises Chaining**
 - JavaScript: **Error Handling with promises**
