@@ -5,7 +5,8 @@ function resolve(){
 }
 
 
-function reject(){    console.log('resolved');
+function reject(){    
+    console.log('resolved');
 
     return "reject"
 }
@@ -29,4 +30,42 @@ promise.then(function(arg){
 })
 .catch(function(arg){
     console.log('Failure in promise  ',arg);
+})
+
+
+
+//NAMASTE JAVASCRIPT
+
+//USING CALLBACKS
+const cart = ["Apple","Orange","Banana","Peach"];
+
+createOrder(cart,function (orderId){
+    proceedToPayment(orderId,function(paymentInfo){
+        showOrderSUmmary(paymentInfo,function(){
+            updateWalletBalance();
+        });
+    });
+});
+
+//SAME THING USING PROMISES   ===> PROMISE - CHAINING 
+createOrder(cart).then(function (orderId){
+    proceedToPayment(orderId);
+})
+.then(function(paymentInfo){
+    showOrderSUmmary(paymentInfo);
+})
+.then(function(paymentInfo){
+    updateWalletBalance(paymentInfo)
+})
+
+
+
+
+
+let todos = new Promise((resolve,reject)=>{
+    const url = "https://jsonplaceholder.typicode.com/todos/";
+    fetch(url).then((result)=>{
+        console.log(result);
+    })
+
 })
