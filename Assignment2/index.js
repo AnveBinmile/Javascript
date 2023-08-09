@@ -145,9 +145,9 @@ function countVowels(str) {
 console.log(countVowels("apple")); // Expected output: 2
 console.log(countVowels("banana")); // Expected output: 3
 
-//Q_10:    
+//Q_10: 
 function reverseString(str) {
-  let s = "";  
+  let s = "";
   for (let i = str.length - 1; i >= 0; i--) {
     s += str[i];
   }
