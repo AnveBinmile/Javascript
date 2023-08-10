@@ -82,7 +82,10 @@ console.log(highScoringStudents);
 
 function addPrefixToNames(peopleArray) {
   const newArr = peopleArray.map((item) => {
-    return (item.name = "Mr. " + item.name);
+    return {
+      name:'Mr. '+item.name,
+      age:item.age
+    }
   });
 
   return newArr;
