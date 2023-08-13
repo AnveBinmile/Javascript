@@ -56,11 +56,13 @@ function sortPeopleByAge(peopleArray) {
   });
   return peopleArray;
 }
+
 const people = [
-  { name: "Alice", age: 30 },
-  { name: "Bob", age: 25 },
-  { name: "Charlie", age: 35 },
+  { name: "Alice", age: 1 },
+  { name: "Bob", age: 4 },
+  { name: "Charlie", age: 100 },
 ];
+
 const sortedPeople = sortPeopleByAge(people);
 console.log(sortedPeople);
 
